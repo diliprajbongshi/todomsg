@@ -1,0 +1,33 @@
+.registerImg{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+.registrationBox{
+    width: 491px;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 100px;
+}
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    width: 80%;
+}
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+    margin: 10px 0;
+}
+.css-y8tvd1-MuiPaper-root-MuiAlert-root {
+    width: 74%;
+}
+.password{
+    position: relative;
+}
+.eye{
+    position: absolute;
+    top: 30px;
+    right: 120px;
+}
+.loader{
+    margin-left: 20px;
+}
